@@ -1,4 +1,5 @@
 ![build and push](https://github.com/mtavaresmedeiros/datadog-custom-metrics/actions/workflows/docker-publish.yml/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/861a7a61fc0542b18beeee5018d70c72)](https://www.codacy.com/gh/mtavaresmedeiros/datadog-custom-metrics/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mtavaresmedeiros/datadog-custom-metrics&amp;utm_campaign=Badge_Grade)
 
 ## Overview
 

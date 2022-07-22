@@ -2,6 +2,8 @@
 
 ## Overview
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3fa65aea28df4294853b71e1bae23588)](https://app.codacy.com/gh/mtavaresmedeiros/datadog-custom-metrics?utm_source=github.com&utm_medium=referral&utm_content=mtavaresmedeiros/datadog-custom-metrics&utm_campaign=Badge_Grade_Settings)
+
     []: # Language: go
 
 This repository have a go package that will export a custom metric to the **DataDog** with the current unix epoch time to use to calculate the uptime from a system/process that export a metric with the Start time of the process since unix epoch.

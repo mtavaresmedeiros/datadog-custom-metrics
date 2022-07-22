@@ -1,3 +1,4 @@
+![build and push](https://github.com/mtavaresmedeiros/datadog-custom-metrics/actions/workflows/docker-publish.yml/badge.svg?branch=master)
 ## Overview
 
     []: # Language: go

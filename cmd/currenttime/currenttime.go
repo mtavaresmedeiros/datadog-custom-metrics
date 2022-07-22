@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+// function responsible for get the current time in unix format
 func Main() float64 {
 
 	log.SetOutput(os.Stdout)

@@ -7,6 +7,7 @@ import (
 	"github.com/DataDog/datadog-go/v5/statsd"
 )
 
+// function responsible for creating a new DogStatsD client
 func Main() *statsd.Client {
 
 	log.SetOutput(os.Stdout)
